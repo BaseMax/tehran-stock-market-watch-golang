@@ -1,3 +1,10 @@
+/*
+ * @Name: tehran-stock-market-watch-go
+ * @Author: Max Base
+ * @Date: 2021-01-03
+ * @Repository: https://github.com/BaseMax/tehran-stock-market-watch-go/
+ */
+
 package main
 
 import (
